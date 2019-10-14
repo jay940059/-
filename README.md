@@ -17,4 +17,7 @@
 1. 因為Linked list沒有index，若要找到特定node，需要從頭開始找起，搜尋的時間複雜度為O(N)。
 2. 需要額外的記憶體空間來儲存pointer。
 ## 上課第三周
+#### Stack(堆疊)
+堆疊(stack)是先進後出(FILO First In Last Out)的資料結構，意思是，先進去的資料最後出來。
+可以使用push( )與pop( )來實現。
 
