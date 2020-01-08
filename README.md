@@ -37,10 +37,9 @@
 ### Week1
 - 停課或放假
 ### Week2
-- [Introduce Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
-- [About Leetcode](https://leetcode.com/problemset/all/)
-- [About Codesignal](https://codesignal.com/)
-- [x] [MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
+- [介紹 Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
+- [關於 Leetcode](https://leetcode.com/problemset/all/)
+- [關於 Codesignal](https://codesignal.com/)
 ### Week3
 - [補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 - [補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
