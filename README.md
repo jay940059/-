@@ -61,14 +61,31 @@ Stack(堆疊)
 - [Red Black Tree](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=youtu.be)
 - [Tree Rotaion](https://en.wikipedia.org/wiki/Tree_rotation)
 ### Week10
+- [What is Hashing](https://youtu.be/2BldESGZKB8)
+- [Bitcoin hashing](https://themoneymongers.com/bitcoin-hash/)
+- [MD5](https://github.com/timvandermeij/md5.py/blob/master/md5.py)
+- [Hash Set](https://www.cs.wcupa.edu/rkline/ds/hash-sets.html)
 ### Week11
+- [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q&feature=youtu.be)
+- [廣度優先搜索](http://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+- [Breadth First Search (BFS) Algorithm](https://www.javatpoint.com/breadth-first-search-algorithm)
 ### Week12
+- [DFS](https://www.youtube.com/watch?v=GFlthbUd7LQ&feature=youtu.be)
 ### Week13
+- [The Maze](https://leetcode.com/articles/the-maze/)
+- [Kruskal](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95)
+- [Minimum Spanning Tree Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 ### Week14
+- [Dijkstra](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+- [Dijkstra 影片](https://youtu.be/0nVYi3o161A)
 ### Week15
+考試
 ### Week16
+考試
 ### Week17
+放寒假
 ### Week18
+放寒假
 
 ## CS50:
 
