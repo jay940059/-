@@ -43,9 +43,23 @@ Stack(堆疊)
 ### Week5
 - 停課或放假
 ### Week6
+- [Quick Sort 影片](https://www.youtube.com/watch?time_continue=1&v=0Ds3KqYeXzA&feature=emb_logo)
+- [演算法複雜度](https://blog.digilentinc.com/recursive-sorting-algorithms/)
+- [Heap](https://www.geeksforgeeks.org/heap-data-structure/)
+- [軟體工程師的九層類別](https://ascii-iicsa.blogspot.com/2010/11/blog-post.html)
+- [Heap Sort 觀念影片](https://youtu.be/H5kAcmGOn4Q)
 ### Week7
+- [Heap Sort 補充資料](https://algorithm.yuanbin.me/zh-tw/basics_data_structure/heap.html)
+- [Merge Sort VS Quick Sort](https://youtu.be/es2T6KY45cA)
+- [Merge Sort 概念圖](https://www.c-programming-simple-steps.com/merge-sort.html)
+- [Merge Sort 影片](https://www.c-programming-simple-steps.com/merge-sort.html)
 ### Week8
+- [Tree 的結構](https://www.tutorialride.com/data-structures/trees-in-data-structure.htm)
+- [Introduction in tree data struction](https://youtu.be/ikPPdBDZnz4)
+- [Binary Tree Level LeetCode](https://youtu.be/XZnWETlZZ14)
 ### Week9
+- [Red Black Tree](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=youtu.be)
+- [Tree Rotaion](https://en.wikipedia.org/wiki/Tree_rotation)
 ### Week10
 ### Week11
 ### Week12
