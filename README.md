@@ -13,26 +13,6 @@
 - [x] [HW5:BFS and DFS](https://github.com/jay940059/-/tree/master/HW5)</br>
 - [x] [HW6:Dijkstra and Kruskal](https://github.com/jay940059/-/tree/master/HW6)</br>
 
-## 上課第二周
-### Linked List 與 Array 的優缺點
-#### Array 優點
-1. random access：只要利用index即可在O(1)時間對Array的資料做存取。
-2. 較Linked list為節省記憶體空間：因為Linked list需要多一個pointer來記錄下一個node的位置。
-#### Array 缺點
-1. 新增/刪除資料很麻煩：若要在第一個位置新增資料，就需要把矩陣中所有元素往後移動。同理，若要刪除第一個位置的資料，也需要把矩陣中剩餘的元素往前移動。
-
-#### Linked List 優點
-1. 新增/刪除資料較Array簡單，只要對O(1)個node調整pointer即可，不需要如同Array般搬動其餘元素。
-2. Linked list的資料數量可以是動態的，不像Array會有resize的問題。
-
-#### Linked List 缺點
-1. 因為Linked list沒有index，若要找到特定node，需要從頭開始找起，搜尋的時間複雜度為O(N)。
-2. 需要額外的記憶體空間來儲存pointer。
-## 上課第三周
-#### Stack(堆疊)
-堆疊(stack)是先進後出(FILO First In Last Out)的資料結構，意思是，先進去的資料最後出來。
-可以使用push( )與pop( )來實現。
-## 課堂進度&筆記:
 
 ### Week1
 - 停課或放假
@@ -40,12 +20,21 @@
 - [介紹 Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
 - [關於 Leetcode](https://leetcode.com/problemset/all/)
 - [關於 Codesignal](https://codesignal.com/)
+Linked List 優點
+1. 新增/刪除資料較Array簡單，只要對O(1)個node調整pointer即可，不需要如同Array般搬動其餘元素。
+2. Linked list的資料數量可以是動態的，不像Array會有resize的問題。
+Linked List 缺點
+1. 因為Linked list沒有index，若要找到特定node，需要從頭開始找起，搜尋的時間複雜度為O(N)。
+2. 需要額外的記憶體空間來儲存pointer。
 ### Week3
 - [補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 - [補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
 - [Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
 - [x] [My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
 - [x] [My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
+Stack(堆疊)
+堆疊(stack)是先進後出(FILO First In Last Out)的資料結構，意思是，先進去的資料最後出來。
+可以使用push( )與pop( )來實現。
 ### Week4
 - [Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
 - [Set Exercise](https://leetcode.com/problems/set-mismatch/)
